@@ -1,0 +1,66 @@
+
+.container p {
+    color: brown;
+  
+}
+.card-header {
+    font-weight: 900;
+}
+
+body .container {
+    display: flex;
+    
+    text-align: center;
+}
+.container0, .container1, .container2, .container3, .container4 {
+    margin-right: 34px;
+    height: 400px;
+}
+#distination, #fdist, #date, #datea {
+    margin-right: 30px;
+    padding-right: 30px;
+}
+.col {
+    border: 1px solid;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    background-color: bisque;
+}
+.col1 {
+    margin-top: 100px;
+    position: relative;
+    top: 47px;
+
+}
+.col3 {
+    position: relative;
+    top: 220px;
+    margin-left: 33%;
+    margin-right: 32%;
+    
+
+}
+.col2 {
+    margin-bottom: auto;
+    position: relative;
+    top: 391px;
+}
+.col4 {
+    position: relative;
+    margin-top: 18%;
+    margin-right: 67%;
+}
+.history {
+    background-color: azure;
+}
+nav .navbar-brand {
+    color:blueviolet;
+    margin-right: 600px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.item1, .item1, .item2, .item3 {
+    margin-right: 30px;
+    font-weight: 5px;
+}
