@@ -64,3 +64,17 @@ nav .navbar-brand {
     margin-right: 30px;
     font-weight: 5px;
 }
+.colA, .colB, .colC {
+    position:relative;
+    border: 1px solid;
+    background-color:burlywood;
+    border-radius: 15px;
+
+}
+.Mountain {
+    background-color: rgb(125, 120, 112);
+}
+.bar {
+    color:rgb(230, 230, 230);
+    font-weight: 800;
+}
