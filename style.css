@@ -78,3 +78,23 @@ nav .navbar-brand {
     color:rgb(230, 230, 230);
     font-weight: 800;
 }
+#form {
+    text-align: center;
+    margin-top: 11%;
+    margin-right: 35%;
+    margin-left: 35%;
+    border: 1px solid;
+    background-color: blanchedalmond;
+    padding: auto;
+   
+}
+#distination, #fdist, #date, #datea, #submit {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+#date, #datea {
+    margin-left: 35px;
+}
+.forma {
+    background-color: aqua;
+}
