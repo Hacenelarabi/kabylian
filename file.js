@@ -7,9 +7,44 @@ const dateA = document.getElementById('datea');
  const message = document.getElementById('message');
 
 
+
+class tarveler () {
+    constructor(distination, fdist, date, dateA){
+        this.distination = distination;
+        this.fdist = fdist;
+        this.date = date;
+        this.dateA = dateA;
+    }
+}
+class UI {
+    static displayTraveler(){ 
+     displayTraveler.forEach
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
-function myFunct(){
+/*function myFunct(){
     var distination = document.getElementById('distination').value;
     var fdist = document.getElementById('fdist').value;
     var date = document.getElementById('date').value;
@@ -21,7 +56,7 @@ function myFunct(){
     var dateaa = localStorage.setItem("dateA", dateA);
     
 }
-form.addEventListener('submit', myFunct)
+form.addEventListener('submit', myFunct)*/
 
 
 
@@ -46,7 +81,7 @@ form.addEventListener('submit', myFunct)
 
 
 
-form.addEventListener('submit', function(e) {
+/*form.addEventListener('submit', function(e) {
   
    e.preventDefault();
     if(distination.value === '' || fdist.value === ""){
